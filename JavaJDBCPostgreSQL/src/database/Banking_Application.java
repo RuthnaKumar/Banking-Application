@@ -215,7 +215,7 @@ public class Banking_Application {
 				System.out.println("Contact Number Already Exists");
 			}
 		} else {
-			System.out.println("Contact Number Invalid Enter Valid Contact Number");
+			System.out.println("Contact Number Invalid ,Enter Valid Contact Number");
 		}
 	}
 
